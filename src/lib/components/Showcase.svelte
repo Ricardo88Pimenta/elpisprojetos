@@ -48,7 +48,7 @@
 
 <section
 	id="services"
-	class="w-full bg-[#050505] text-white py-32 md:py-48 border-t border-white/5 relative z-10"
+	class="w-full bg-[#050505] text-white py-32 md:py-48 border-t border-white/5 relative z-10 overflow-hidden"
 >
 	<!-- Huge background glow for volume -->
 	<div
