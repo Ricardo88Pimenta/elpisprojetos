@@ -203,7 +203,7 @@
 <!-- Extra Soft Glassmorphism Mobile Menu Overlay -->
 <div
     bind:this={mobileMenuRef}
-    class="fixed inset-0 z-40 bg-[#0A0A0A]/85 backdrop-blur-2xl flex flex-col justify-center invisible opacity-0 px-10"
+    class="fixed inset-0 z-40 bg-[#0A0A0A]/85 backdrop-blur-2xl flex flex-col justify-center invisible opacity-0 px-10 overflow-hidden"
 >
     <!-- Soft background glow -->
     <div
