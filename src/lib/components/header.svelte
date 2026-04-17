@@ -137,7 +137,7 @@
 
 <div
     bind:this={headerRef}
-    class="header opacity-0 w-0 z-60 fixed top-4 mx-auto left-0 right-0 bg-[#0A0A0A]/60 border border-white/10 h-[60px] pl-6 pr-2 whitespace-nowrap flex justify-between items-center backdrop-blur-xl"
+    class="header opacity-0 w-0 z-60 fixed top-4 left-1/2 -translate-x-1/2 bg-[#0A0A0A]/60 border border-white/10 h-[60px] pl-6 pr-2 whitespace-nowrap flex justify-between items-center backdrop-blur-xl"
 >
     <a
         id="logo"
