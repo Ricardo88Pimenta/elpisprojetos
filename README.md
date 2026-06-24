@@ -44,6 +44,8 @@ Primary UI construction operates out of `src/lib/components`:
 - `WorksList.svelte` - Selected works with rich hover-states
 - `Seo.svelte` - Pre-configured `<svelte:head>` metadata injection
 - `header.svelte` - Glassmorphism navigation with dynamic routing
+  
+[![Star History Chart](https://starhistory.link/YusufCeng1z/svelte-gsap-template.svg?theme=lime&style=glass)](https://starhistory.link/YusufCeng1z/svelte-gsap-template)
 
 ## License
 
