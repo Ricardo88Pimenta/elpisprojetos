@@ -112,7 +112,7 @@
                     bind:this={words[0]}
                     class="flex items-center pt-4 will-change-transform"
                 >
-                    We craft
+                    Elpis Projetos de Infraestrutura
                 </div>
             </div>
             <div class="overflow-hidden pb-8 -mb-8">
